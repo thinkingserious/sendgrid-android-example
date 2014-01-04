@@ -10,7 +10,7 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_main">SendGrid Example</string>
     <string name="title_activity_display_message">Result from SendGrid Web API</string>
-    <string name="hello_world">Hello World, With Love from SendGrid</string>
-    
+    <string name="response_placeholder">Status from email send goes here.\n</string>
+    <string name="stats_placeholder">Email statistics go here.</string>
 
 </resources>

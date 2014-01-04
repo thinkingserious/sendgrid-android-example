@@ -13,12 +13,12 @@
     <TextView android:id="@+id/response"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:text="@string/response_placeholder" />
     
     <TextView android:id="@+id/statistics"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:text="@string/stats_placeholder" />
     
     </LinearLayout>  
 </ScrollView>  
