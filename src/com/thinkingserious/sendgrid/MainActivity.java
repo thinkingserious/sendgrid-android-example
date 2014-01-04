@@ -40,7 +40,7 @@ public class MainActivity extends Activity{
 		}
 	}
 	
-	/** Called when the user clicks the Send button **/
+	// Called when the user clicks the Send button
 	@SuppressWarnings("unchecked")
 	public void sendMessage(View view) {
 		Hashtable<String,String> params = new Hashtable<String,String>();
