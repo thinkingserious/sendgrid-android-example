@@ -1,4 +1,6 @@
-This code is not production ready. It is meant to help you integrate quickly with SendGrid. You will need to incorporate error handling and testing.
+This code is not production ready. It is meant to help you integrate quickly with SendGrid when developing for Android natively. You will need to incorporate error handling and testing.
+
+## Quickstart
 
 The easiest way to get started with this example is to:
 
