@@ -1,6 +1,6 @@
 This code is not production ready. It is meant to help you integrate quickly with SendGrid when developing for Android natively. You will need to incorporate error handling and testing.
 
-There is a companion blog post, yet to published, that walks through the entire process to build this app from scratch. When it's live, I'll post the link here.
+There is a companion [blog post](http://sendgrid.com/blog/send-email-from-android-applications/), that walks through the entire process to build this app from scratch. When it's live, I'll post the link here.
 
 This project was born out of the [Android Developer training](http://developer.android.com/training/basics/firstapp/index.html).
 
